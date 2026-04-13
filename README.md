@@ -23,7 +23,7 @@ Each topic folder contains:
 ## Topics Covered
 
 - Arrays
-- Linked Lists
+- Linked Lists (Singly & Doubly and Circular)
 <!-- - Stacks & Queues
 - Trees & Graphs
 - Sorting Algorithms

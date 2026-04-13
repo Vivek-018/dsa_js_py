@@ -62,3 +62,5 @@ obj.insertAtEnd(20)
 obj.insertAtEnd(30)
 obj.insertAtEnd(30)
 obj.printLL()
+
+# TODO: create circular singly linked list and implement all the above operations in it.

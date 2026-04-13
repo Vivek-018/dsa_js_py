@@ -79,3 +79,5 @@ obj.insertAtEnd(20);
 obj.insertAtEnd(30);
 obj.insertAtEnd(30);
 obj.printLL();
+
+// TODO: create a circular linked list and implement the above operations in it.
