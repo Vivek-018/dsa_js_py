@@ -24,8 +24,9 @@ Each topic folder contains:
 
 - Arrays
 - Linked Lists (Singly & Doubly and Circular)
-<!-- - Stacks & Queues
-- Trees & Graphs
+- Stacks & Queues
+- Recursion
+<!-- - Trees & Graphs
 - Sorting Algorithms
 - Searching Algorithms
 - Dynamic Programming
